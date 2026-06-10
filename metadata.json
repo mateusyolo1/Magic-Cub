@@ -1,0 +1,6 @@
+{
+  "name": "GAN 3D CAD Studio Pro",
+  "description": "Estúdio profissional CAD em 3D de alta fidelidade para o Cubo Mágico GAN. Modelagem de sólidos de realismo extremo com eixos metálicos, molas helicoidais espirais comprimíveis, berços de vidro com ímãs de Neodímio e relevo de fricção Honeycomb.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
